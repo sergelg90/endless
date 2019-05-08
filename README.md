@@ -14,7 +14,7 @@ It's very easy, with only 2 steps you can start working on Endless platform :
   * `npm install -g serverless`
 
 * ##### Then, install Endless:
-  * `serverless install -u https://github.com/endless-commerce/endless`
+  * `serverless install -u https://github.com/sergelg90/endless`
 
 ## How to deploy
 
